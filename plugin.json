@@ -1,0 +1,22 @@
+{
+  "name": "siyuan-parent-child-ref",
+  "author": "jieyangzhang023",
+  "url": "https://github.com/jieyangzhang023/siyuan-parent-child-ref",
+  "version": "0.1.0",
+  "minAppVersion": "3.0.0",
+  "backends": ["windows", "linux", "darwin", "docker", "ios", "android"],
+  "frontends": ["desktop", "mobile", "browser-desktop", "browser-mobile", "desktop-window"],
+  "displayName": {
+    "default": "Parent-Child Doc References",
+    "zh_CN": "父子文档引用"
+  },
+  "description": {
+    "default": "Auto-reference child documents in a table at the end of the parent document, and check/clean invalid references.",
+    "zh_CN": "在父级文档末尾的表格中自动引用子文档，并支持检查、一键清除不合法的引用。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README.md"
+  },
+  "keywords": ["reference", "child document", "子文档", "引用"]
+}
