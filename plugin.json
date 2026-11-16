@@ -2,7 +2,7 @@
   "name": "siyuan-parent-child-ref",
   "author": "jieyangzhang023",
   "url": "https://github.com/jieyangzhang023/siyuan-parent-child-ref",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "3.0.0",
   "backends": ["windows", "linux", "darwin", "docker", "ios", "android"],
   "frontends": ["desktop", "mobile", "browser-desktop", "browser-mobile", "desktop-window"],
